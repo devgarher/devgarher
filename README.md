@@ -1,12 +1,20 @@
-<h1 align="center">Hi 👋, I'm Adam Pithenwala</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h1 align="center">Hi 👋, I'm Jared Garher</h1>
+<h3 align="center">Student at IT🌟.</h3>
 
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
-
+<h2>About Me</h2>
+<p>
+  I'm an engineer in training, currently pursuing a degree in Information Technology Engineering. 
+  My coursework spans software development, algorithms, and systems fundamentals, and I'm continuously 
+  building proficiency across multiple programming languages, including Java, C, C++, HTML, JavaScript, 
+  CSS, PHP, PSeInt, and MATLAB. I approach each project as an opportunity to strengthen my technical 
+  foundation, applying what I learn in the classroom to hands-on development work while staying committed 
+  to continuous learning and skill growth.
+</p>
 <br>
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
